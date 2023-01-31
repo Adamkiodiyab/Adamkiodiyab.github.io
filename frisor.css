@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: aliceblue;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -19,8 +19,8 @@ body {
   }
   
   nav a {
-    color: #fff;
-    text-decoration: none;
+    color: black;
+    text-decoration: cornflowerblue;
     padding: 1em;
     display: block;
   }
