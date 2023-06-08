@@ -1,4 +1,7 @@
 body {
+  background-image: url('image00003.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
     background-color: aliceblue;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -25,4 +28,37 @@ body {
     display: block;
   }
   
+  #services{
+    background-color: aliceblue;
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+    opacity: .7;
+    border-radius: 12px;
+  }
+
+
+  #Omoss{
+    background-color: aliceblue;
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+    opacity: .7;
+    border-radius: 12px;
+  }
+
+  #Bokadinatider{  
+    background-color: aliceblue;
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+    opacity: .7;
+    border-radius: 12px;
+  }
+
+
+
+  
+
+
   
